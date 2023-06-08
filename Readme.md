@@ -1,4 +1,5 @@
-- Exercícios e técnicas desenvolvidas no primeiro semestre
+
+      Exercícios e técnicas desenvolvidas no primeiro semestre
 
       Utilizando Visualg
          Unidade II - Técnicas de Desenvolvimento
@@ -7,7 +8,7 @@
          Unidade V - Técnicas de Desenvolvimento
          Unidade VI - Técnicas de Desenvolvimento
 
-      Utilizando HTML | css | js
+      Utilizando HTML|CSS|JS
          Unidade II - Elementos do HTML5 (HTML)
          Unidade III - Introdução ao CSS (CSS e HTML)
          Unidade IV - Introdução ao JS (JS e HTML)
